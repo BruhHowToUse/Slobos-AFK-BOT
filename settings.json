@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKBot",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mouthbrooder.aternos.host",
-    "port": 23639,
+    "ip": "ServerKindaHomeless.aternos.me",
+    "port": 35685,
     "version": "1.21.4"
   },
   "position": {
